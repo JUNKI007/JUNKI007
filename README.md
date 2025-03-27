@@ -63,6 +63,16 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black" />
 </div>
 
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNKI007&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNKI007&layout=compact)
+
+<br>
+<br>
+
+
+
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
