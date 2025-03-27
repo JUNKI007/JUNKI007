@@ -1,6 +1,5 @@
-<!-- 타이틀 부분 -->
 <div align="center">
-  <img src="https://github.com/JUNKI007/JUNKI007/blob/main/assets/myName.gif?raw=true" />
+  <img src="https://github.com/JUNKI007/JUNKI007/blob/main/assets/myName.gif?raw=true" width="50%" />
 </div>
 
 
